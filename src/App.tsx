@@ -1,9 +1,7 @@
+import MainLayout from "./components/layout/MainLayout";
+
 function App() {
-  return (
-    <>
-      <h1>Ever green university</h1>
-    </>
-  );
+  return <MainLayout></MainLayout>;
 }
 
 export default App;
