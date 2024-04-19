@@ -1,6 +1,6 @@
 import StudentDashBoard from "../pages/student/StudentDashBoard";
 
-export const studentRoutes = [
+export const studentPaths = [
   {
     name: "Dashboard",
     path: "dashboard",
